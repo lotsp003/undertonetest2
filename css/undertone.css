@@ -1,0 +1,86 @@
+body {
+	width: 1024px;
+	height: 1000px;
+	background-color: #F3EBE4;
+}
+
+
+#prompt {
+	height: 100%;
+	width: 100%;
+	background: url("images/robot_background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+h1 {
+	color: #333333;
+	font-family: Josefin Sans;
+	font-size: 12px;
+	position: absolute;
+	top: 30%;
+	left: 250px;
+	letter-spacing: 3px;
+
+
+}
+
+h2 {
+	color: #333333;
+	font-family: Josefin Sans;
+	font-size: 20px;
+	position: absolute;
+	top: 35%;
+	left: 330px;
+	margin-top: -5px;
+	letter-spacing: 5px;
+
+
+}
+
+#promo{
+    right: 0;
+    bottom: 0;
+    max-width: 100%; 
+    min-height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin-top: -124px;
+
+	
+
+}
+
+#promo_video {
+	width: 1024px;
+	height: 780px;
+
+}
+
+.button {
+	background-color: #333333;
+	height: 40px;
+	width: 130px;
+	font-family: Josefin Sans;
+	font-size: 15px;
+	color: #F3EBE4;
+	text-align: center;
+	line-height: 43px;
+	position: relative;
+	top: 35%;
+	left: 180px;
+	display: inline-block;
+	margin-left: 100px;
+	border-radius: 12px;
+
+
+
+}
+
+a {
+	text-decoration: none;
+	color: #F3EBE4;
+}
